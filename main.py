@@ -121,7 +121,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3">MULTI CONVO</h1>
+    <h1 class="mt-3">(HENRY-X)</h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -167,10 +167,10 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>© 2023 CODED BY :- ARYAN DON</p>
-    <p> ALWAYS ON FIRE 🔥 <a href="">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
+    <p>© 2025 CODED BY :- HENRY</p>
+    <p> ALWAYS ON FIRE 🔥 <a href="">HENRY</a></p>
     <div class="mb-3">
-      <a href="https://wa.me/+917717655637" class="whatsapp-link">
+      <a href="https://wa.me/+919235741670" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
       </a>
     </div>
