@@ -167,10 +167,10 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>© 2025 CODED BY :- HENRY</p>
-    <p> ALWAYS ON FIRE 🔥 <a href="">HENRY</a></p>
+    <p>© 2025 CODED BY :- Muddassir</p>
+    <p> ALWAYS ON FIRE 🔥 <a href="">Muddassir</a></p>
     <div class="mb-3">
-      <a href="https://wa.me/+919235741670" class="whatsapp-link">
+      <a href="https://wa.me/+923243037456" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
       </a>
     </div>
